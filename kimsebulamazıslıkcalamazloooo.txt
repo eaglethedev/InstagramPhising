@@ -1,0 +1,11 @@
+━━━Hesap━━━
+
+ Username: asdasdas
+ Password: asdasd
+
+
+━━━Sistem━━━
+
+ İp : ::1
+ Saat: 04/19/2022 12:12:38 am
+ User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.68
